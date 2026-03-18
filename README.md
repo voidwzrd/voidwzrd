@@ -9,6 +9,6 @@ Formerly a freelance web and app developer, but now...
 - 😄 # of projects I've abandoned: We're not gonna talk about that 😂
 
 ## Latest projects:
-1. [rcount](https://github.com/liminalwizard/rcount) (CLI tool to get number of repositories within a directory)
-2. [swarm ⚠️ In development ⚠️](https://github.com/liminalwizard/swarm) (macOS Terminal app that runs multiple processes at once) 
-3. [omen ⚠️ In development ⚠️](https://github.com/liminalwizard/omen) (macOS Terminal app that uses AI to generate meaningful commit messages)
+1. [rcount](https://github.com/liminalwizard/rcount) (macOS Terminal app that to get number of repositories within a directory)
+2. [swarm](https://github.com/liminalwizard/swarm) (⚠️ In development ⚠️ macOS Terminal app that runs multiple processes at once) 
+3. [omen](https://github.com/liminalwizard/omen) (⚠️ In development ⚠️ macOS Terminal app that uses AI to generate meaningful commit messages)
